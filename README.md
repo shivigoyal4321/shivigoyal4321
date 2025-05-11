@@ -12,3 +12,7 @@ Tech student, passionate about coding, making projects and problem solving.
 ### 🛠️ Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Badges!
+
+![HacktoberFest](https://github.com/user-attachments/assets/baf78deb-c19a-46be-a463-50777cc35617)
