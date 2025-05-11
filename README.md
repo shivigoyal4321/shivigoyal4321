@@ -15,4 +15,4 @@ Tech student, passionate about coding, making projects and problem solving.
 
 ### Badges!
 
-![HacktoberFest](https://github.com/user-attachments/assets/baf78deb-c19a-46be-a463-50777cc35617)
+![HacktoberFest]<img src="./assets/profile-pic.png" width="300"/>
