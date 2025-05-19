@@ -17,4 +17,4 @@ Tech student, passionate about coding, making projects and problem solving.
 
 ![HacktoberFest]<img src="https://github.com/user-attachments/assets/baf78deb-c19a-46be-a463-50777cc35617" width="300"/>
 
-![leeetcode1](https://github.com/user-attachments/assets/a57fbff5-593e-4304-a782-5b9fd6bca7a1)
+![leeetcode1]<img src="https://github.com/user-attachments/assets/a57fbff5-593e-4304-a782-5b9fd6bca7a1" width="300"/>
