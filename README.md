@@ -1,5 +1,5 @@
 ## Hi there I am Shivi
-Tech student, passionate about coding, making projects and problem solving.
+Tech student, passionate about data-science, coding, making projects and problem solving.
 ## My Skills
 ### 🚀 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
