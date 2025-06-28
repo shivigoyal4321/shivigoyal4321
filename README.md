@@ -25,7 +25,8 @@ Tech student, passionate about data-science, coding, making projects and problem
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 ### Badges!
-
+![leeetcode1]<img src="https://github.com/user-attachments/assets/bf05596b-b6f6-490f-bf0c-f3ad5606ee4d" width="300"/>
 ![HacktoberFest]<img src="https://github.com/user-attachments/assets/baf78deb-c19a-46be-a463-50777cc35617" width="300"/>
 ![leeetcode1]<img src="https://github.com/user-attachments/assets/a57fbff5-593e-4304-a782-5b9fd6bca7a1" width="300"/>
 ![aws-educate-machine-learning-foundations]<img src="https://github.com/user-attachments/assets/2f74e93e-7a5e-4df6-9b55-ff8c495c2ce1" width="300"/>
+
